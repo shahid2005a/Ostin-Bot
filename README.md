@@ -1,6 +1,5 @@
 ![logo](https://github.com/shahid2005a/Ostin-Bot/blob/main/ostin.png)
 
-![logo](https://github.com/shahid2005a/Ostin-Bot/blob/main/Ostin_informationBot.png)
 
 # Ostin-Bot
 Ostin repo
@@ -38,22 +37,9 @@ cd Ostin-Bot
 python ostin.py
 ```
 
-## Start kre @Ostin_informationBot
-
+## Run ke bad Start kro @Ostin_informationBot
 
 <a href="https://t.me/Ostin_informationBot">
-  <img src="https://img.shields.io/badge/Telegram Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot">
-</a>  
-<br>
-
-## 📌 Contact Me  
-
-<a href="https://www.youtube.com/@DigitalCyber-c5n">
-  <img src="https://img.shields.io/badge/Digital Cyber YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Digital Cyber YouTube">
-</a>  
-<br>
-
-<a href="https://t.me/GsmhackerBot">
   <img src="https://img.shields.io/badge/Telegram Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot">
 </a>  
 <br>
