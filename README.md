@@ -38,7 +38,7 @@ cd Ostin-Bot
 python ostin.py
 ```
 
-##Start kre @Ostin_informationBot
+## Start kre @Ostin_informationBot
 
 
 <a href="https://t.me/Ostin_informationBot">
