@@ -1,5 +1,7 @@
 ![logo](https://github.com/shahid2005a/Ostin-Bot/blob/main/ostin.png)
 
+![logo](https://github.com/shahid2005a/Ostin-Bot/blob/main/Ostin_informationBot.png)
+
 # Ostin-Bot
 Ostin repo
 
@@ -36,7 +38,13 @@ cd Ostin-Bot
 python ostin.py
 ```
 
+##Start kre @Ostin_informationBot
 
+
+<a href="https://t.me/Ostin_informationBot">
+  <img src="https://img.shields.io/badge/Telegram Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot">
+</a>  
+<br>
 
 ## 📌 Contact Me  
 
@@ -50,6 +58,3 @@ python ostin.py
 </a>  
 <br>
 
-<a href="https://chat.whatsapp.com/JhSEMaGzYk4GbkvEr2i6WI">
-  <img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Group">
-</a>
