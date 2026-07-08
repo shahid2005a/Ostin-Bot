@@ -1,8 +1,22 @@
 ![logo](https://github.com/shahid2005a/Ostin-Bot/blob/main/OstinBot.png)
 
 
-# Ostin-Bot
-Ostin repo
+
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=OSTIN+BOT+Number;Detelis+Tareck+%26+Transfer;By+Aryan+Afridi" alt="Typing SVG" />
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/OSTIN-BOT-2ea44f?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-4.10+-blue?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Storage-Access-success?style=for-the-badge" />
+    <br />
+    <img src="https://img.shields.io/github/stars/shahid2005a/FILE-TOOL?style=for-the-badge&logo=github&color=yellow" />
+    <img src="https://img.shields.io/github/forks/shahid2005a/FILE-TOOL?style=for-the-badge&logo=github&color=blue" />
+    <img src="https://img.shields.io/badge/Version-2.0-important?style=for-the-badge" />
+  </p>
+
+---
 
 ### 𝕋𝔼ℝ𝕄𝕌𝕏 ℂ𝔸𝕄𝕄𝔸ℕ𝔻
 ```
@@ -122,4 +136,9 @@ python OstinBot.py
 </p>
 
 </div>
+
+
+</p>
+
+---
 
