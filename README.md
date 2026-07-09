@@ -3,7 +3,10 @@
 <div align="center">
   <img src="https://github.com/shahid2005a/Ostin-Bot/blob/main/OstinBot.png" alt="Ostin Bot Logo" width="400" height="400">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=⚡+OSTIN-BOT+QUANTUM+⚡;Neural+Number+Intelligence+System;Next-Gen+Security+Framework;Advanced+Tracking+%26+Transfer;By+Aryan+Afridi" alt="Typing SVG" />
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=OSTIN+BOT+Phone+Number;Live+Location+Details+%26+Data;By+Aryan+Afridi" alt="Typing SVG" />
+  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=⚡+OSTIN-BOT+QUANTUM+⚡;Neural+Number+Intelligence+System;Next-Gen+Security+Framework;Advanced+Tracking+%26+Transfer;By+Aryan+Afridi" alt="" />
 </div>
 
 <!-- ============================================ -->
